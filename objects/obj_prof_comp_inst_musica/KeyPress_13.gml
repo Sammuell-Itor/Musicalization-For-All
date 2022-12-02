@@ -1,0 +1,1 @@
+room_goto(r_licao_musica);
